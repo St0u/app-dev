@@ -1,5 +1,5 @@
 # app-dev
-# My Frist Repository
+My First Repository
 
 # Favorite Series'
 1. Vinland Saga
