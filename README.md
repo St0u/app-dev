@@ -3,15 +3,13 @@ My first repository
 
 # Favorite Series'
 1. Vinland Saga
-   > The best anime in my opinion, portrays the best character development for an anime character.
+   > The best anime in my opinion, portrays the best character development for an anime character. Lots of fighting and follows the story of a boy that is hungry for revenge to the man who killed his father.
 3. Breaking Bad
-   > Best series that I have watched that's about crime and illegal drugs.
+   > Focuses on a sick chemistry teacher that found out that making drugs can make you acquire a huge amount of money. 
 5. Black Clover
-   > another favorite anime of mine, it is serious and fun to watch.
+   > An anime about wizrds and different kinds of magic and focuses on the main character that doesn't have any magic but has the ultimate strength which is never giving up.
 
 # Favorite Movies
-1. Tom and Jerry A Nutcracker Tale
-   > This movie is my favorite since I was young.
-2. Superbad
+1. Superbad
    > A comedic movie that is amusing and fun to watch.
 
