@@ -1,5 +1,5 @@
 # app-dev
-My First Repository
+My first repository
 
 # Favorite Series'
 1. Vinland Saga
