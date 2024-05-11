@@ -1,10 +1,9 @@
 # app-dev
 My first repository
 
-# Favorite Series'
-
 ![Vinland Saga](https://anitrendz.net/news/wp-content/uploads/2019/08/Vinland-Saga-Poster.jpg)
 
+# Favorite Series'
 1. Vinland Saga
    > The best anime in my opinion, portrays the best character development for an anime character. Lots of fighting and follows the story of a boy that is hungry for revenge to the man who killed his father.
 3. Breaking Bad
